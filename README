@@ -1,0 +1,41 @@
+# 🎓 Exam Duty Management System
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+A Python-based automation system designed to generate and manage **fair and efficient exam duty schedules** for academic institutions using structured data from Excel files.
+
+---
+
+## 🚀 Key Features
+
+- 📊 Automatically generates exam duty schedules from teacher data
+- ⚖️ Ensures fair workload distribution using rotation-based logic
+- 🔁 Supports duty swapping between teachers
+- 📁 Excel-based input and output support for easy integration
+- 🧠 Clean and modular Python code structure
+- ⚡ Fast and lightweight execution
+
+---
+
+## 🧠 How It Works
+
+The system:
+1. Reads teacher and exam duty data from an Excel file
+2. Processes scheduling logic using rule-based assignment
+3. Ensures fair rotation so no teacher is overburdened
+4. Allows manual swapping of duties if required
+5. Outputs updated duty schedule
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Pandas
+- OpenPyXL
+
+---
+
+## 📂 Project Structure
